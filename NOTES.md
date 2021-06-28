@@ -13,6 +13,12 @@
 `ng g c <component_name>`
 
 
+### Add fontawesome
+`ng add @fortawesome/angular-fontawesome`
+
+### Install Json Server
+`npm install json-server -D`
+
 ### Basic component
 
 ```typescript
