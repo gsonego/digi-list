@@ -15,7 +15,7 @@
 
 ### Basic component
 
-`
+```typescript
 import { Component } from '@angular/core'
 
 
@@ -33,4 +33,4 @@ export class AppComponent {
 		}		
 	}
 }
-`
+```
